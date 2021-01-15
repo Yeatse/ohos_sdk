@@ -51,3 +51,4 @@ NativeLayer *GetNativeLayer(JNIEnv *env, jobject surface);
 
 /** @} */
 #endif // NATIVE_LAYER_JNI_H
+
